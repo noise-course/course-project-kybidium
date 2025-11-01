@@ -2,7 +2,6 @@
 
 ## Project Participants
 
-Format the following information in a markdown table:
 
 | Name     | Kai Lee      | Luis Ojeda   |
 | -------- | ------------ | ------------ |
